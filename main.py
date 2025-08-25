@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 import pandas as pd
 from os import path
-from sklearn.datasets import load_iris
+# from sklearn.datasets import load_iris
 
 st.title('🌸 Iris Flower Species Predictor')
 
