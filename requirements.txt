@@ -166,3 +166,7 @@ websockets==12.0
 Werkzeug==3.0.6
 widgetsnbextension==4.0.11
 zipp==3.20.2
+streamlit
+scikit-learn
+pandas
+matplotlib
